@@ -28,7 +28,7 @@ How to Build the software
     2. Input.properties 
     3. log4j.properties 
 7. Compile the java files: 
-javac -cp ./libraries/<*star>.jar ./code/<*star>*.java -d ./build/
+javac -cp ./libraries/log4j-1.2.17.jar ./code/'*.java -d ./build/
 8. Navigate to the build directory: cd build 
 9. Execute:  
 tar xf ../libraries/log4j-1.2.17.jar

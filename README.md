@@ -35,6 +35,7 @@ tar xf ../libraries/log4j-1.2.17.jar
 10. Navigate out of the build directory: cd .. 
 11. Create the jar file: 
 jar cvfm TradingReport.jar ./Code/Manifest.mf -C ./build/com/sarabjeet/task/ .
+
 How to Use the software
 1. Create an executable file(or a .bat file for windows) and copy the following into the file: 
 java -jar TradingReport.jar ./resources/input.properties

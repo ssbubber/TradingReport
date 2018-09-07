@@ -20,7 +20,7 @@ How to Build the software
     4. reports 
     5. Libraries 
     6. inputfile 
-3. Copy all the java files & Manifest.mf into code 
+3. Copy all the java files(from com/sarabjeet/task) & Manifest.mf into code 
 4. Copy the input transaction file into inputfile 
 5. Copy the log4j.jar into the directory - libraries 
 6. Copy the following files in the resources directory: 

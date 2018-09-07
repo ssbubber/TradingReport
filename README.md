@@ -1,13 +1,5 @@
 # TradingReport
 
-
-About	2
-How to Build the software	2
-How to Use the software	3
-Troubleshooting	3
-
-
-
 About
 The task is accomplished in the following logical steps:
 1. The The File Specifications have been loaded into a FileSpecification object. 
